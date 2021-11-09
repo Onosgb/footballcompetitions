@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<testsuite name="HeadlessChrome 95.0.4638 (Windows 10.0.0)" package="unit" timestamp="2021-11-08T18:43:01" id="0" hostname="Mr-Godbless" tests="4" errors="0" failures="0" time="0.366">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/95.0.4638.69 Safari/537.36"/>
+  </properties>
+  <testcase name="FootballCompetitions Should render the Initial UI as expected" time="0.117" classname=".FootballCompetitions"/>
+  <testcase name="FootballCompetitions Should show correct results when page 2 is clicked" time="0.149" classname=".FootballCompetitions"/>
+  <testcase name="FootballCompetitions Should show correct results when page 3 is clicked" time="0.057" classname=".FootballCompetitions"/>
+  <testcase name="FootballCompetitions Should show correct results when page 4 is clicked" time="0.043" classname=".FootballCompetitions"/>
+  <system-out>
+    <![CDATA[
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>
